@@ -12,11 +12,17 @@ O relatório está dividido em dois painéis principais:
 - Prazo médio de entrega (Ship to Door)
 - Distribuição de pedidos por estado em mapa geográfico
 
+## Painel Comercial
+<img src="imagens/painel-operacional.jpg" alt="Dashboard Logística Power BI" width="600"/>
+
 ### 2. Comercial
 - Total de vendas (R$)
 - Vendas por categoria: entregue vs. em trânsito
 - Vendas por região (Sudeste, Sul, Norte etc.)
 - Acompanhamento do cumprimento da meta de prazo de entrega
+
+## Painel Comercial
+<img src="imagens/painel-comercial.jpg" alt="Dashboard Logística Power BI" width="600"/>
 
 ## 🧠 Objetivos do Projeto
 
