@@ -51,6 +51,8 @@ Essa etapa teve como objetivo garantir uma boa experiência visual, alinhada com
 A **Hermex Log** é uma transportadora fictícia de médio porte com atuação nacional, especializada em entregas B2C. 
 O projeto simula seus dados ao longo de três anos (2019-2021).
 
+---
+
 **Criado por:** Fabio Cerqueira Jeronymo  
 💼 Estudante de Ciência da Computação | Foco em BI, SQL, Power BI, Python  
 
