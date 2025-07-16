@@ -33,9 +33,9 @@ O relatório está dividido em dois painéis principais:
 
 ## 💡 Tecnologias Utilizadas
 
-- **Power BI Desktop**
-- DAX (Data Analysis Expressions)
-- Power Query para tratamento de dados
+- [Power BI](https://powerbi.microsoft.com/)
+- DAX
+- Power Query (M)
 - Visualizações nativas do Power BI (gráficos, KPIs, mapas)
   
 ## 🎨 Design do Dashboard
